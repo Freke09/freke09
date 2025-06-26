@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Backend & Frontend Web Developer | Musician | Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=freke09&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
@@ -49,9 +49,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freke09&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freke09&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
